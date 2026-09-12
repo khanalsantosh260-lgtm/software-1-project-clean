@@ -1,0 +1,4 @@
+Welcome to Forest Adventure!
+
+You are entering a quiet forest.
+Your goal is to explore different places and collect useful items.

@@ -1,0 +1,5 @@
+Instructions:
+
+Use the main menu by typing a command number.
+You can move between places, collect items, check your inventory, and save the game.
+Type lopeta to quit the game.
