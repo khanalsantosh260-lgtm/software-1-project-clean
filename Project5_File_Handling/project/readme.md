@@ -1,6 +1,6 @@
 # Forest Adventure
 
-Sandesh Thapa
+Santosh Khanal
 
 ## Project 5: File Handling
 
