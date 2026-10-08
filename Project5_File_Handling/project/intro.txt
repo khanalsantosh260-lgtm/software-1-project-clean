@@ -1,4 +1,8 @@
 Welcome to Forest Adventure!
 
-You are entering a quiet forest.
-Your goal is to explore different places and collect useful items.
+The village river is polluted.
+Your goal is to restore clean water for the village.
+
+Explore the Forest, Cave, and Castle to find useful items.
+You can solve the problem by repairing a water filter,
+cleaning up rubbish, or getting the villagers to help.

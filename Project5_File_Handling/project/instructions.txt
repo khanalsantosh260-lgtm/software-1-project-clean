@@ -1,5 +1,40 @@
-Instructions:
+# Forest Adventure
 
-Use the main menu by typing a command number.
-You can move between places, collect items, check your inventory, and save the game.
-Type lopeta to quit the game.
+Author: Santosh Khanal
+
+## Game idea and objective
+
+Forest Adventure is a command-line game about a village with a
+polluted river. The player explores the Forest, Cave, and Castle
+to help restore clean water.
+
+## How to run and play
+
+Run Project5_File_Handling/project/main.py using Python 3 or PyCharm.
+No external packages are needed.
+
+Enter no to start a new game and provide your name and age.
+Use the numbered menu to move, collect items, and perform actions.
+
+Choose 4 to check your inventory and progress.
+Choose 5 to save and type lopeta to quit.
+To load a save, restart, enter yes, and use the same player name.
+
+## Three ways to win
+
+1. Repair: Collect Tools in the Forest and the Filter part in the
+   Cave. Go to the Castle and choose 6.
+
+2. Cleanup: Choose 7 in all three locations, then choose 8 at
+   the Castle to dispose of the rubbish.
+
+3. Community: Choose 9 in the Forest to collect evidence, then
+   choose 10 at both the Cave and Castle to get villagers' support.
+
+Completing any one route wins the game. There is no losing condition.
+
+## Sustainable development
+
+The game connects to SDG 6: Clean Water and Sanitation through
+equipment repair, responsible rubbish disposal, and community action.
+Water restoration is simplified for gameplay.
